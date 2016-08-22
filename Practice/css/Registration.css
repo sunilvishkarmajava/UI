@@ -1,0 +1,26 @@
+#portfolio{
+    background-color: #18BC9C;
+}
+.form-control
+{
+    max-width: 530px;
+    padding: 15px;
+    margin: 5px auto;
+    background-color: #fff;
+    border-radius: 0.3em;
+}
+.checkbox
+{
+   max-width: 530px;
+   
+    margin: 5px auto;
+        
+    
+}
+.btn-primary
+{
+    max-width: 530px;
+   
+    margin: 5px auto;
+   
+}

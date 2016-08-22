@@ -1,0 +1,65 @@
+#image
+{
+    position: absolute;
+    margin-top: 10px;
+    float: left;
+}
+#name_istitute
+{
+    padding-right: 15em;
+    float: left;
+}
+#bs-example-navbar-collapse-1
+{
+    float: inherit;
+}
+#image
+{
+    width: 50px;
+    height: 40px;
+    padding-bottom: 5px;
+}
+.jumbotron {
+background: url('../images/Banner_2.jpg') no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    width:100%;
+}
+
+#header_2
+{
+    background-color: #bce8f1;
+}
+body
+{
+    background: url('../images/background_image.jpg') no-repeat center center;
+}
+.footer
+{
+    background-color: #222222;
+    width:auto;
+    height:100px;
+    margin-left: 20px;
+    margin-right: 100px;
+}
+.item
+{
+
+}
+#mainheading{
+    color:white;
+}
+.jumbotron>p{
+    color:white;
+}
+.inputbox{
+    border-radius:10px;
+    box-sizing: border-box;
+
+}
+#dropdown-list
+{
+    text-decoration-color: #265a88;
+    background-color: #088888;
+}
