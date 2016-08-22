@@ -1,0 +1,21 @@
+#head{
+    background-color: lightblue;
+    border: 3px black solid;
+}
+#left{
+    background-color: green;
+    float: left;
+    width: 20%;
+    border: 3px black solid;
+}
+#right{
+    background-color: yellow;
+    float: left;
+    width: 75%; 
+    border: 3px black solid;
+}
+#footer{
+    background-color: orange;
+    clear: both;
+    border: 3px black solid;
+}

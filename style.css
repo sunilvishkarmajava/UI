@@ -1,0 +1,74 @@
+.container{
+    width: auto;
+    margin: 0;
+}
+.group:after {
+    content: "";
+    display: table;
+    clear: both;
+    margin-bottom: 10px;
+    }
+.head
+{
+    position: fixed;
+    padding: 0px 20px 0px 0px;
+    top :0;
+    left: 0;
+    height: 85px
+      z-index: 600;
+    width: 100%;
+    margin-bottom: 40px;
+   
+}
+.navigation-menu ul li{
+    
+text-align: center;
+    
+    display: inline-block;
+    margin: 0px 10px;
+}
+.navigation-menu{
+    float: right;
+}
+
+.Brand-image{
+
+  
+    width: 10%;
+    float: left;
+}
+.container header{
+
+
+    
+    background-color: darkgrey;
+    margin-top :0px;
+   
+
+}
+.main{
+    width: auto;
+    float: left;
+    width: 75%;
+}
+.sidebar
+{
+    
+    background-color: aqua;
+    float: right;
+    width: 24%;
+}
+.aouthor-contant{
+    background-color: bisque;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    padding: 5px;
+}
+
+header{
+    margin-bottom: 10px; 
+}
+ 
+h1{
+    margin: 0px;
+}
